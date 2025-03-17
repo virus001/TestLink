@@ -1,0 +1,16 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+        {
+          "appIDs": [ "9434T587C9.com.test.TestProjectLink" ],
+          "components": [
+            {
+               "/": "/*",
+               "comment": "Matches any URL with a path that starts with /us/pink/"
+            }
+          ]
+        }
+       ]
+   }  
+}
